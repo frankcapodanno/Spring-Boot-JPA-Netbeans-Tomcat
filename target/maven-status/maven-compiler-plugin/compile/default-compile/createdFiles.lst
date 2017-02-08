@@ -1,0 +1,8 @@
+click\capodanno\api\HelloApiController.class
+click\capodanno\api\TestConnectionController.class
+click\capodanno\BasicApplication.class
+click\capodanno\WebInitializer.class
+click\capodanno\api\entities\TableTestConnect.class
+click\capodanno\api\entities\TableTestConnectRepository.class
+.netbeans_automatic_build
+click\capodanno\api\GreetingBean.class
